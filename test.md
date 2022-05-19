@@ -1,11 +1,11 @@
 ````
-MATTHEW GRAYBOSCH: FULLSTACK THAUMATURGE
+### MATTHEW GRAYBOSCH: FULLSTACK THAUMATURGE
 ========================================
 
 I'm a self-taught software developer and sysadmin from New York exiled to the wilds of central Pennsylvania. I build cathedrals on quicksand from blueprints scribbled on bar napkins, and more often than not the result works.
 
 
-CONTACT INFO
+### CONTACT INFO
 ------------
 
 You can reach me by sending email to <contact@matthewgraybosch.com>.
@@ -13,7 +13,7 @@ You can reach me by sending email to <contact@matthewgraybosch.com>.
 You will not find me active on any major parasocial media platform.
 
 
-HOW TO FOLLOW ME
+### HOW TO FOLLOW ME
 ----------------
 
 Add one of the feeds below to your to your favorite feed reader.
