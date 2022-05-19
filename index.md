@@ -13,9 +13,11 @@ I'm a self-taught software developer and sysadmin from New York exiled to the wi
 CONTACT INFO
 ------------
 
-You can reach me by sending email to <contact@matthewgraybosch.com>.
+You can reach me by sending email to <makgill@protonmail.ch>, but I don't check email often.
 
-You will not find me active on any major parasocial media platform.
+You can also reach me by sending a letter or package. I always check for those and reply. Mail can be addressed to Deryk Makgill at 1930 Air Lane Dr, Nashville TN.
+
+I'm also on Twitter @wakgill.
 
 
 HOW TO FOLLOW ME
@@ -36,53 +38,6 @@ MORE ABOUT ME
 -------------
 
 I'm a husband, cat friend, and co-protector of a great big trauma puppy that my wife rescued from a shelter. My wife and I met on a Yahoo! forum in 2000, met in person for the first time in 2002, and got married in 2004. In the meantime we courted via email and instant messaging with weekly phone calls. We've been through a lot together, and while I had some doubts before I got married I have no regrets.
-
-Though I'm a software developer by trade, I'm not "passionate" about tech. In fact, I don't think of what I do as a career; to me it's just my day job, something I do so I can afford hobbies like reading and writing sci-fi, listening to heavy metal, playing video games, and traveling with my wife. I work to live rather than living to work. If being a janitor paid as much as coding, I'd go back to sweeping floors and scrubbing toilets; either way I'm cleaning up after other people. I've outlived the vast majority of my work, so kindly pardon my cynicism about the tech industry.
-
-Nevertheless, I take pride in doing good, solid work on time and within budget while using the right tools for the job at hand. I also like to tinker with secondhand computers and run GNU/Linux (mainly Slackware) and OpenBSD on them. In addition to maintaining this website, I maintain a site for my wife, Catherine Gatt[0]. I maintain another for my science fantasy saga, Starbreaker[1].
-
-I completed my first novel in 2009, and in the 2010s published a couple of novels and several short stories. However, my publisher -- Curiosity Quills Press -- folded in early 2019 and ghosted every author they had under contract. Between that and some other personal difficulties (not to mention surviving COVID-19), I have struggled to continue writing.
-
-I play too many video games. My PSN tag is EddieVanHelsing. I mainly play Elden Ring, Shin Megami Tensei: Nocturne, Persona 5 Royal, the remastered SaGa Frontier, and Final Fantasy XIV.
-
-Heavy metal saved my life. There's a story there and someday I might bother to tell it.
-
-
-### MISCELLANEOUS ###
-
-ABILITY | SCORE
---------|------
-STR     | 10
-DEX     | 14  
-CON     | 14  
-INT     | 18  
-WIS     | 12  
-CHA     | 12
-
-
-TYPE      | RESISTANCE
-----------|-----------
-sword     | normal  
-gun       | normal  
-fire      | weak  
-lightning | weak  
-ice       | strong  
-wind      | strong  
-psychic   | strong  
-nuclear   | normal  
-holy      | null  
-dark      | reflect  
-
-
-VARIABLE   | VALUE
------------|------
-$LOCALE    | en_US
-$SHELL     | /bin/zsh
-$EDITOR    | /usr/local/bin/emacs
-$ALIGNMENT | chaotic neutral
-$PERSONA   | Odysseus
-$PRONOUNS  | they/them
-
 
 ABOUT THIS WEBSITE
 ------------------
