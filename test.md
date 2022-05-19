@@ -47,8 +47,7 @@ By way of disclosure: my site is hosted by NearlyFreeSpeech.net[5].
 
 This site's public git repository is available at <https://git.sr.ht/~starbreaker/matthewgraybosch.com>.
 
-"The more outlandish the typeface, the harder it is to read. The drama belongs in what you say, not the typeface"
-> Ogilvy, D (1983), Ogilvy on Advertising pg. 96, London, Prion Books Ltd.
+"The more outlandish the typeface, the harder it is to read. The drama belongs in what you say, not the typeface" Ogilvy, D (1983), Ogilvy on Advertising pg. 96, London, Prion Books Ltd.
 
 ### Privacy Policy
 
