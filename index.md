@@ -22,16 +22,11 @@ I'm also on Twitter.
 <a href="https://twitter.com/wakgill">https://twitter.com/wakgill</a>
 
 
-RSS AND NEWSLETTER
+NEWSLETTER
 ------------------
 
-Add one of the feeds below to your to your favorite feed reader.
-<a href="https://twitter.com/wakgill">https://matthewgraybosch.com/feeds/posts.xml</a>
-
-You should also be able to view these feeds in your web browser. Thanks to XSLT they should render as if they were HTML.
-
-I'm also collecting mailing addresses for a currently *free* print newsletter idea I'm exploring. You can sign up here so you don't miss the first issue.
-<a href="https://twitter.com/wakgill">https://twitter.com/wakgill</a>
+Sign up to get emails directly from me. I'm also considering a printed newsletter—escape the screen!!—so you can provide a mailing address if you want to get that for free when it comes out.
+<a href="https://forms.gle/tz3EEThDNVgdJj5g8">https://forms.gle/tz3EEThDNVgdJj5g8</a>
 
 
 MORE ABOUT ME
