@@ -21,18 +21,12 @@ You can also reach me by sending a letter or package. I always check for those a
 I'm also on Twitter.
 <a href="https://twitter.com/wakgill">https://twitter.com/wakgill</a>
 
-
 NEWSLETTER
 ------------------
 
 Sign up to get emails directly from me. I'm also considering a printed newsletter—escape the screen!!—so you can provide a mailing address if you want to get that for free when it comes out.
 <a href="https://forms.gle/tz3EEThDNVgdJj5g8">https://forms.gle/tz3EEThDNVgdJj5g8</a>
 
-
-MORE ABOUT ME
--------------
-
-I'm a husband, cat friend, and co-protector of a great big trauma puppy that my wife rescued from a shelter. My wife and I met on a Yahoo! forum in 2000, met in person for the first time in 2002, and got married in 2004. In the meantime we courted via email and instant messaging with weekly phone calls. We've been through a lot together, and while I had some doubts before I got married I have no regrets.
 </pre>
 <pre class="col">
 ABOUT THIS WEBSITE
@@ -54,15 +48,6 @@ PRIVACY POLICY
 --------------
 
 I don't want your data. I don't collect your data. You should not get any cookies while visiting this website, there are no analytics, and I have access logging disabled when not debugging technical issues.
-
-
-ADVERTISING POLICY
-------------------
-
-I do not host advertising of any kind here. There is no sponsored content on this website. My personal website is not a billboard.
-
-I will never host advertising here. It doesn't cost me much to operate this website, so I can easily pay the expenses out of the salary I get from my day job.
-
 
 LINKS
 -----
