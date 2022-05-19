@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<pre style="word-wrap: break-word; white-space: pre-wrap;">
+'''
 I am fascinated by Tim May's crypto-anarchy. Unlike the communities
 traditionally associated with the word "anarchy", in a crypto-anarchy the
 government is not temporarily destroyed but permanently forbidden and
@@ -149,4 +149,4 @@ solutions.
 4. Money creation. Each account keeper accepts the highest bids (among
 those who actually broadcasted solutions) in terms of nominal cost per
 unit of b-money created and credits the bidders' accounts accordingly.
-</pre>
+'''
