@@ -25,7 +25,7 @@ RSS AND NEWSLETTER
 
 Add one of the feeds below to your to your favorite feed reader.
 
- <a href="https://twitter.com/wakgill">https://matthewgraybosch.com/feeds/posts.xml</a>
+<a href="https://twitter.com/wakgill">https://matthewgraybosch.com/feeds/posts.xml</a>
 
 You should also be able to view these feeds in your web browser. Thanks to XSLT they should render as if they were HTML.
 
