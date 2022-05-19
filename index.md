@@ -39,7 +39,6 @@ MORE ABOUT ME
 
 I'm a husband, cat friend, and co-protector of a great big trauma puppy that my wife rescued from a shelter. My wife and I met on a Yahoo! forum in 2000, met in person for the first time in 2002, and got married in 2004. In the meantime we courted via email and instant messaging with weekly phone calls. We've been through a lot together, and while I had some doubts before I got married I have no regrets.
 </pre>
-<img src="https://github.com/0x000m/0x000m.github.io/blob/f45a32728fbb076c939b464f6b6a6060eae3167f/assets/bw-dm.png?raw=true">
 <pre class="col">
 ABOUT THIS WEBSITE
 ------------------
