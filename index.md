@@ -17,7 +17,7 @@ You can reach me by sending email to <makgill@protonmail.ch>, but I don't check 
 
 You can also reach me by sending a letter or package. I always check for those and reply. Mail can be addressed to Deryk Makgill at 1930 Air Lane Dr, Nashville TN.
 
-I'm also on Twitter @wakgill.
+I'm also on Twitter <a href="https://twitter.com/wakgill">@wakgill.</a>
 
 
 HOW TO FOLLOW ME
