@@ -73,8 +73,6 @@ I will never host advertising here. It doesn't cost me much to operate this webs
 [4]: https://netnewswire.org/
 [5]: https://nearlyfreespeech.net/
 
------
-
 © 2022 Matthew Graybosch, all rights reserved
 Kudos to <contact@matthewgraybosch.com>
 Flames to /dev/null
