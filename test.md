@@ -1,3 +1,4 @@
+````
 MATTHEW GRAYBOSCH: FULLSTACK THAUMATURGE
 ========================================
 
@@ -119,3 +120,4 @@ LINKS
 © 2022 Matthew Graybosch, all rights reserved
 Kudos to <contact@matthewgraybosch.com>
 Flames to /dev/null
+```
