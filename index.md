@@ -20,24 +20,23 @@ You can also reach me by sending a letter or package. I always check for those a
 I'm also on Twitter <a href="https://twitter.com/wakgill">@wakgill.</a>
 
 
-HOW TO FOLLOW ME
-----------------
+RSS AND NEWSLETTER
+------------------
 
 Add one of the feeds below to your to your favorite feed reader.
 
 - <https://matthewgraybosch.com/feeds/posts.xml>
-- <https://matthewgraybosch.com/feeds/fiction.xml>
-- <https://matthewgraybosch.com/feeds/bookmarks.xml>
-- <https://matthewgraybosch.com/feeds/playlist.xml>
-- <https://matthewgraybosch.com/feeds/workouts.xml>
 
 You should also be able to view these feeds in your web browser. Thanks to XSLT they should render as if they were HTML.
+
+I'm also collecting mailing addresses for a currently *free* print newsletter idea I'm exploring. You can sign up here so you don't miss the first issue: <a href="https://twitter.com/wakgill">https://twitter.com/wakgill</a>
 
 
 MORE ABOUT ME
 -------------
 
 I'm a husband, cat friend, and co-protector of a great big trauma puppy that my wife rescued from a shelter. My wife and I met on a Yahoo! forum in 2000, met in person for the first time in 2002, and got married in 2004. In the meantime we courted via email and instant messaging with weekly phone calls. We've been through a lot together, and while I had some doubts before I got married I have no regrets.
+
 
 ABOUT THIS WEBSITE
 ------------------
