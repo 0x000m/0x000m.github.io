@@ -4,8 +4,8 @@ layout: default
 
 
 <pre class="col">
-MATTHEW GRAYBOSCH: FULLSTACK THAUMATURGE
-========================================
+Deryk Makgill
+-------------
 
 I'm a self-taught software developer and sysadmin from New York exiled to the wilds of central Pennsylvania. I build cathedrals on quicksand from blueprints scribbled on bar napkins, and more often than not the result works.
 
@@ -79,9 +79,11 @@ LINKS
 [4]: https://netnewswire.org/
 [5]: https://nearlyfreespeech.net/
 
-*****
+-----
 
 © 2022 Matthew Graybosch, all rights reserved
 Kudos to <contact@matthewgraybosch.com>
 Flames to /dev/null
+
+~ End of the page ~
 </pre>
