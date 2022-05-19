@@ -6,7 +6,7 @@ layout: post
 
 I'm a self-taught software developer and sysadmin from New York exiled to the wilds of central Pennsylvania. I build cathedrals on quicksand from blueprints scribbled on bar napkins, and more often than not the result works.
 
-### CONTACT INFO
+### Contact Info
 
 You can reach me by sending email, but I don't check email often.
   
@@ -21,7 +21,7 @@ I'm also on Twitter.
 <a href="https://twitter.com/wakgill">https://twitter.com/wakgill</a>
 
 
-### RSS AND NEWSLETTER
+### RSS and Newsletter
 
 Add one of the feeds below to your to your favorite feed reader.
   
@@ -33,11 +33,11 @@ I'm also collecting mailing addresses for a currently *free* print newsletter id
   
 <a href="https://twitter.com/wakgill">https://twitter.com/wakgill</a>
 
-### MORE ABOUT ME
+### More About Me
 
 I'm a husband, cat friend, and co-protector of a great big trauma puppy that my wife rescued from a shelter. My wife and I met on a Yahoo! forum in 2000, met in person for the first time in 2002, and got married in 2004. In the meantime we courted via email and instant messaging with weekly phone calls. We've been through a lot together, and while I had some doubts before I got married I have no regrets.
 
-### ABOUT THIS WEBSITE
+### About This Website
 
 This is a "shinobi" website[2], based on a project by Bradley Taunt[3]. Rather than clamoring for attention, it hides in plain sight. If you know how to find it, you can. Otherwise it abides in the shadows, ready to be seen when you are ready to see it.
 
@@ -50,17 +50,11 @@ This site's public git repository is available at <https://git.sr.ht/~starbreake
 "The more outlandish the typeface, the harder it is to read. The drama belongs in what you say, not the typeface"
 > Ogilvy, D (1983), Ogilvy on Advertising pg. 96, London, Prion Books Ltd.
 
-### PRIVACY POLICY
+### Privacy Policy
 
 I don't want your data. I don't collect your data. You should not get any cookies while visiting this website, there are no analytics, and I have access logging disabled when not debugging technical issues.
 
-### ADVERTISING POLICY
-
-I do not host advertising of any kind here. There is no sponsored content on this website. My personal website is not a billboard.
-
-I will never host advertising here. It doesn't cost me much to operate this website, so I can easily pay the expenses out of the salary I get from my day job.
-
-### LINKS
+### Links
 
 [0]: https://catherinegatt.com/
 [1]: https://starbreaker.org/
