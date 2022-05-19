@@ -3,7 +3,7 @@ layout: default
 ---
 
 
-<style>body{font-family:monospace;font-size:13px;} h3{font-size:1em;border-bottom: 2px dashed black;}p{max-width:435px;}
+<style>body{font-family:monospace;font-size:13px;} h3{font-size:1em;border-bottom: 2px dashed black;}p{max-width:435px;}</style>
 
 ### Deryk Makgill
 
