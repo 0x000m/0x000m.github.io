@@ -13,9 +13,13 @@ I'm a self-taught software developer and sysadmin from New York exiled to the wi
 CONTACT INFO
 ------------
 
-You can reach me by sending email to <makgill@protonmail.ch>, but I don't check email often.
+You can reach me by sending email, but I don't check email often.
 
-You can also reach me by sending a letter or package. I always check for those and reply. Mail can be addressed to Deryk Makgill at 1930 Air Lane Dr, Nashville TN.
+<makgill@protonmail.ch>
+
+You can also reach me by sending a letter or package. I always check for those and reply.
+
+<1930 Air Lane Dr, Nashville TN 37027>
 
 I'm also on Twitter.
 
