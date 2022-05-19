@@ -18,6 +18,7 @@ You can reach me by sending email, but I don't check email often.
 <a href="makgill@protonmail.ch">makgill@protonmail.ch</a>
 
 You can also reach me by sending a letter or package. I always check for those and reply.
+
 <a href="makgill@protonmail.ch">1930 Air Lane Dr, Nashville TN 37027</a>
 
 I'm also on Twitter.
