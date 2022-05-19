@@ -14,15 +14,13 @@ CONTACT INFO
 ------------
 
 You can reach me by sending email, but I don't check email often.
+<a href="makgill@protonmail.ch">makgill@protonmail.ch</a>
 
-<makgill@protonmail.ch>
 
 You can also reach me by sending a letter or package. I always check for those and reply.
-
-<1930 Air Lane Dr, Nashville TN 37027>
+<a href="makgill@protonmail.ch">1930 Air Lane Dr, Nashville TN 37027</a>
 
 I'm also on Twitter.
-
 <a href="https://twitter.com/wakgill">https://twitter.com/wakgill</a>
 
 
@@ -30,13 +28,11 @@ RSS AND NEWSLETTER
 ------------------
 
 Add one of the feeds below to your to your favorite feed reader.
-
 <a href="https://twitter.com/wakgill">https://matthewgraybosch.com/feeds/posts.xml</a>
 
 You should also be able to view these feeds in your web browser. Thanks to XSLT they should render as if they were HTML.
 
 I'm also collecting mailing addresses for a currently *free* print newsletter idea I'm exploring. You can sign up here so you don't miss the first issue.
-
 <a href="https://twitter.com/wakgill">https://twitter.com/wakgill</a>
 
 
