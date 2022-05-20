@@ -52,7 +52,7 @@ plaintext archives of Ryan Lackey and their stylized archive on
         security' is the root passphrase of the Constitution." The idea 
         being that the normal Constitutional protections are bypassed by 
         invocation of "national security." But it occurs to me that we are
-        eeing a new variant of this: "Protect the children."
+        seeing a new variant of this: Protect the children.
 
         <p>Some recent examples:</p>
 
