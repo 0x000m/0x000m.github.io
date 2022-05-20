@@ -4,7 +4,7 @@ layout: default
 
 
 <pre class="col">
-0x000m.github.io
+0X000.GITHUB.IO
 ----------------
 
 Essays. Fiction. Interviews. Miscellany. 
