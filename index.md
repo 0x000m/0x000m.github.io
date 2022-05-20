@@ -4,10 +4,10 @@ layout: default
 
 
 <pre class="col">
-DERYK MAKGILL'S WEBSITE
+0x000m
 -------------
 
-I'm a self-taught software developer and sysadmin from New York exiled to the wilds of central Pennsylvania. I build cathedrals on quicksand from blueprints scribbled on bar napkins, and more often than not the result works.
+Essays. Fiction. Miscellany. 
 
 
 CONTACT INFO
