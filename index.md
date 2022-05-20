@@ -9,6 +9,8 @@ layout: default
 
 Essays. Fiction. Interviews. Miscellany. 
 
+Coming soon (tm).
+
 
 CONTACT INFO
 ------------
