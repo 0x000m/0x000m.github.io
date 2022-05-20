@@ -12,6 +12,12 @@ Essays. Fiction. Interviews. Miscellany.
 Coming soon (tm).
 
 
+ABOUT ME
+------------
+
+I'm working on a book on the writings of Timothy C. May.
+
+
 CONTACT INFO
 ------------
 
