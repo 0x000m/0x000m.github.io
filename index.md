@@ -44,21 +44,10 @@ The site is all plain preformatted text with just a dash of CSS. It's probably t
 > Ogilvy, D (1983), Ogilvy on Advertising pg. 96, London, Prion Books Ltd.
 
 
-LINKS
------
+CHANGELOG 
+---------
 
-[0]: https://catherinegatt.com/
-[1]: https://starbreaker.org/
-[2]: https://shinobi.website/
-[3]: https://tdarb.org/
-[4]: https://netnewswire.org/
-[5]: https://nearlyfreespeech.net/
-
------
-
-© 2022 Matthew Graybosch, all rights reserved
-Kudos to <contact@matthewgraybosch.com>
-Flames to /dev/null
+[19 May 2022]: New site is now live.
 
 ~ End of the page ~
 </pre>
