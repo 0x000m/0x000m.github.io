@@ -48,7 +48,7 @@ plaintext archives of Ryan Lackey and their stylized archive on
 
 ### 3. Children
 
-   3.1. "I was reminded the other night by someone of the "'National 
+   3.1. I was reminded the other night by someone of the "'National 
         security' is the root passphrase of the Constitution." The idea 
         being that the normal Constitutional protections are bypassed by 
         invocation of "national security." But it occurs to me that we are
