@@ -54,9 +54,9 @@ plaintext archives of Ryan Lackey and their stylized archive on
         invocation of "national security." But it occurs to me that we are
         seeing a new variant of this: Protect the children.
 
-        <p>Some recent examples:</p>
+ Some recent examples:
 
-        <p>- Clinton's Executive Order today which limits advertising of 
+<p>- Clinton's Executive Order today which limits advertising of 
         cigarettes, limits the display of tobacco-related symbols and 
         words on t-shirts, baseball caps, billboards, and publically 
         visible signs at sports events. (There were all kinds of details, 
@@ -64,37 +64,36 @@ plaintext archives of Ryan Lackey and their stylized archive on
         -watched the Clinton announcement, but didn't take notes...consult 
         your newspaper or the Web.)</p>
 
-        The critical phrase: "We have to protect the children."
+The critical phrase: "We have to protect the children."
 
-        (Oh, and one amazing detail: the possible issuance of I.D. cards 
-        to all of those under the age of 18. Besides being useful for 
-        things like curfews, video tape rental prohibitions, and the 
+(Oh, and one amazing detail: the possible issuance of I.D. cards 
+ to all of those under the age of 18. Besides being useful for 
+things like curfews, video tape rental prohibitions, and the 
         cigarette ban, it would lead to I.D. cards for those over 18. 
         Naturally (if those over 18 don't have to carry them, then all a 
         child less than 18 has to do is to claim not to have to carry one
         because he's 18!)
 
-        <p>- The whole Exon and V-chip debates, now likely to be passed by 
+<p>- The whole Exon and V-chip debates, now likely to be passed by 
         Congress, are about "protecting children."</p>
 
-        <p>- and the Oklahoma City bombing, not that I supported it in any 
+ <p>- and the Oklahoma City bombing, not that I supported it in any 
         way, was seen as especially horrific because of the children that 
         were killed. This means that restrictive legislation, such as bans 
         on explosives information, guns, etc., can be justified as 
         measures to "protect children." And so on.</p>
 
-        Now clearly this strategy will be welcomed by many. It's hard to 
+Now clearly this strategy will be welcomed by many. It's hard to 
         argue against children and against the "protection of children." 
         Arguing the Constitutional side is tough when "the children" are 
         at issue.
-
-        More speculatively, I think Clinton has hit on this strategy as a 
+More speculatively, I think Clinton has hit on this strategy as a 
         way to line up support from the Republican majority in Congress on 
         many key issues. There may even be repercussions for welfare and 
         health care issues (which Clinton can also cast as "protect the 
         children" issues).
 
-        The potential crypto relevance? Look for arguments about limiting
+The potential crypto relevance? Look for arguments about limiting
         access to strong crypto to be more heavily focussed on 
         "pedophiles" and "pornographers." Look for calls to have a 
         national I.D. card--which serves many State-needed purposes (and I
