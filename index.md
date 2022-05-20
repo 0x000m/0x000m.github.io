@@ -11,7 +11,7 @@ Essays. Fiction. Interviews. Miscellany. Coming soon (tm).
 
 
 ABOUT ME
-------------
+--------
 
 I'm working on a book on the writings of Cypherpunk Timothy C. May and writing on this website when I have time.
 
@@ -30,7 +30,7 @@ I'm also on Twitter.
 
 
 NEWSLETTER
-------------------
+----------
 
 Sign up to get emails directly from me. I'm also considering a printed newsletter—escape the screen!!—so you can provide a mailing address if you want to get that for free when it comes out.
 <a href="https://forms.gle/tz3EEThDNVgdJj5g8">https://forms.gle/tz3EEThDNVgdJj5g8</a>
