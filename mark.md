@@ -2,7 +2,8 @@
 layout: post
 ---
 
-### Is There Such a Thing as Good Taste?
+<pre class="col">
+Is There Such a Thing as Good Taste?
 
 When I was a kid, I'd have said there wasn't. My father told me so. Some people like some things, and other people like other things, and who's to say who's right?
 
@@ -37,4 +38,4 @@ The situation with art is messier, of course. You can't measure effectiveness by
 
 
 Thanks to the Cambridge Union for inviting me, and to Trevor Blackwell, Jessica Livingston, and Robert Morris for reading drafts of this.
-
+</pre>
