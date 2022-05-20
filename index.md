@@ -8,7 +8,7 @@ layout: default
 ---------------
 
 I'm working on a book on the writings of Cypherpunk Timothy C. May and writing on this website when I have time.
-
+<a href="https://0x000m.github.io/may">https://0x000m.github.io/may</a>
 
 CONTACT INFO
 ------------
