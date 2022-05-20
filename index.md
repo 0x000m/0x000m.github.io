@@ -36,22 +36,12 @@ Sign up to get emails directly from me. I'm also considering a printed newslette
 ABOUT THIS WEBSITE
 ------------------
 
-This is a "shinobi" website[2], based on a project by Bradley Taunt[3]. Rather than clamoring for attention, it hides in plain sight. If you know how to find it, you can. Otherwise it abides in the shadows, ready to be seen when you are ready to see it.
+I'm am fascinated by Gwern Branwen's concept of a "long site." Basically, you work on writing projects that are too hard, too long, or too tedious for most people to do. I've had success as a "blogger" before but looking back on a lot of my writing from 2017-2019, I was struck by how little I cared about it. Gwern asks the question: what would you write or research if you knew you were going to be working on the same thing in twenty years? I'm still figuring that out and this site is my attempt to answer it.
 
-Likewise for my posts; if you know how to use a RSS reader you can follow me by adding one of the feeds listed above to your feed reader. If you're on a Mac like me I recommend NetNewsWire[4].
-
-By way of disclosure: my site is hosted by NearlyFreeSpeech.net[5].
-
-This site's public git repository is available at <https://git.sr.ht/~starbreaker/matthewgraybosch.com>.
+The site is all plain preformatted text with just a dash of CSS. It's probably the simplest website I've ever visited, but it's not for the reason you might think. It's not that I have some hard preference against web design—although indeed I think the web tends to be overdesigned and overtemplated today—but rather that I love tinkering with design so much that I don't get any real work done. It's plain from necessity, though I think you'll find it very practical and readable too, which is all that really matters in web design.
 
 "The more outlandish the typeface, the harder it is to read. The drama belongs in what you say, not the typeface"
 > Ogilvy, D (1983), Ogilvy on Advertising pg. 96, London, Prion Books Ltd.
-
-
-PRIVACY POLICY
---------------
-
-I don't want your data. I don't collect your data. You should not get any cookies while visiting this website, there are no analytics, and I have access logging disabled when not debugging technical issues.
 
 
 LINKS
