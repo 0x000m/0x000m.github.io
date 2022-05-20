@@ -54,7 +54,7 @@ plaintext archives of Ryan Lackey and their stylized archive on
         invocation of "national security." But it occurs to me that we are
         eeing a new variant of this: "Protect the children."
 
-        Some recent examples:
+        <p>Some recent examples:</p>
 
         <p>- Clinton's Executive Order today which limits advertising of 
         cigarettes, limits the display of tobacco-related symbols and 
