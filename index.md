@@ -5,7 +5,7 @@ layout: default
 
 <pre class="col">
 0X000.GITHUB.IO
-----------------
+---------------
 
 Essays. Fiction. Interviews. Miscellany. 
 
