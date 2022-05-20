@@ -7,7 +7,7 @@ layout: default
 0x000m.github.io
 ----------------
 
-Essays. Fiction. Miscellany. 
+Essays. Fiction. Interviews. Miscellany. 
 
 
 CONTACT INFO
