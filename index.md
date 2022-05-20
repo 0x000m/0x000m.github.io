@@ -9,6 +9,7 @@ Deryk Makgill
 
 I'm a self-taught software developer and sysadmin from New York exiled to the wilds of central Pennsylvania. I build cathedrals on quicksand from blueprints scribbled on bar napkins, and more often than not the result works.
 
+
 CONTACT INFO
 ------------
 
@@ -21,6 +22,7 @@ You can also reach me by sending a letter or package. I always check for those a
 I'm also on Twitter.
 <a href="https://twitter.com/wakgill">https://twitter.com/wakgill</a>
 
+
 NEWSLETTER
 ------------------
 
@@ -29,6 +31,7 @@ Sign up to get emails directly from me. I'm also considering a printed newslette
 
 </pre>
 <pre class="col">
+
 ABOUT THIS WEBSITE
 ------------------
 
@@ -48,6 +51,7 @@ PRIVACY POLICY
 --------------
 
 I don't want your data. I don't collect your data. You should not get any cookies while visiting this website, there are no analytics, and I have access logging disabled when not debugging technical issues.
+
 
 LINKS
 -----
