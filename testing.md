@@ -4,11 +4,11 @@ layout: default
 
 <style>h1,h2,h3,h4,h5,h6{font-weight:400;font-size:1em;border-bottom:none;}p{margin-left:30px;}</style>
 
-# TIMOTHY C. MAY: FROM 'ANARCHY' to 'WELFARISM'
+TIMOTHY C. MAY: FROM 'ANARCHY' to 'WELFARISM'
 
-### 1. Introduction
+<p>1. Introduction</p>
 
-### 1.1. Copyright
+1.1. Copyright
 
 No rights reserved. Please use as you like and kindly link to the
 original page or the print edition. Please include TIMOTHY C. MAY
@@ -16,11 +16,11 @@ whenever quoting him from this book. Tim asks in his Cyphernomicon
 not to put any other name on his words but his, and we ought to
 respect that.
 
-### 1.2. Forward
+1.2. Forward
 
 Coming soon (tm).
 
-### 1.2.1 Stucture and Contents
+1.2.1 Stucture and Contents
 
 I've organised this book as an A-Z lexicon of Timothy C. May's most
 interesting, insightful, and inflammatory online email and forum
@@ -31,7 +31,7 @@ stand-alone pieces like The Crypto-Anarchist Manifesto or the
 Cyphernomicon because they are better read in their entirety on
   their own.
 
-### 1.3. Acknowledgements 
+1.3. Acknowledgements 
 
 All material is written by Tim May, except as noted. Research,
 compilation, forward and editing by 0x000m. This work could not
@@ -40,13 +40,13 @@ plaintext archives of Ryan Lackey and their stylized archive on
   https://cryptoanarchy.wiki/ by Tom Busby.
 
 
-### 2. Borders
+<p>2. Borders</p>
 
    2.1. "National borders are just speed bumps on the information 
          superhighway." 
          1995-08-07 - Quibbling about definitions of “proof"            
 
-### 3. Children
+<p>3. Children</p>
 
    3.1. I was reminded the other night by someone of the "'National 
         security' is the root passphrase of the Constitution." The idea 
@@ -102,7 +102,7 @@ The potential crypto relevance? Look for arguments about limiting
         children." 
         1995-08-11 - “Protect the children” as passphrase to Constitution 
 
-### 4. Cyberspace
+<p>4. Cyberspace</p>
 
    4.1. "Bashing the cybernetic aspects of our culture is hot these days. 
         I expect Oprah and Sally Jesse to soon be doing shows on this. 
@@ -111,7 +111,7 @@ The potential crypto relevance? Look for arguments about limiting
         relationships with their shrinkwraps."
         1995-08-08 - Slouka’s “War of the Worlds” (trashing of computers)
 
-### 5. Cypherpunks
+<p>5. Cypherpunks</p>
 
    5.1. "There's a certain "control freak" attitude that creeps into this 
         list (and other lists, of course) at times, wherein people say 
