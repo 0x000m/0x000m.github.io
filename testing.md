@@ -56,13 +56,13 @@ plaintext archives of Ryan Lackey and their stylized archive on
 
         Some recent examples:
 
-        - Clinton's Executive Order today which limits advertising of 
+        <p>- Clinton's Executive Order today which limits advertising of 
         cigarettes, limits the display of tobacco-related symbols and 
         words on t-shirts, baseball caps, billboards, and publically 
         visible signs at sports events. (There were all kinds of details, 
         most of them blatantly in violation of the First Amendment. I half
         -watched the Clinton announcement, but didn't take notes...consult 
-        your newspaper or the Web.)
+        your newspaper or the Web.)</p>
 
         The critical phrase: "We have to protect the children."
 
@@ -74,14 +74,14 @@ plaintext archives of Ryan Lackey and their stylized archive on
         child less than 18 has to do is to claim not to have to carry one
         because he's 18!)
 
-        - The whole Exon and V-chip debates, now likely to be passed by 
-        Congress, are about "protecting children."
+        <p>- The whole Exon and V-chip debates, now likely to be passed by 
+        Congress, are about "protecting children."</p>
 
-        - and the Oklahoma City bombing, not that I supported it in any 
+        <p>- and the Oklahoma City bombing, not that I supported it in any 
         way, was seen as especially horrific because of the children that 
         were killed. This means that restrictive legislation, such as bans 
         on explosives information, guns, etc., can be justified as 
-        measures to "protect children." And so on.
+        measures to "protect children." And so on.</p>
 
         Now clearly this strategy will be welcomed by many. It's hard to 
         argue against children and against the "protection of children." 
