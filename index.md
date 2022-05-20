@@ -42,7 +42,6 @@ The site is all plain preformatted text with just a dash of CSS. It's probably t
 > Ogilvy, D (1983), Ogilvy on Advertising pg. 96, London, Prion Books Ltd.
 
 This website is the founding member of Preformat Monastics, the internet monestary for preformatted websites.
-
 <a href="https://0x000m.github.io/mp/">https://0x000m.github.io/mp/</a>
 
 
