@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Timothy C. May: From 'Anarchy' to 'Welfarism'"
-permalink: may
+permalink: test1
 ---
 <pre>
 TIMOTHY C. MAY: FROM 'ANARCHY' to 'WELFARISM'
