@@ -55,6 +55,7 @@ This website is the founding member of Preformat Monastics, the internet monesta
 CHANGELOG 
 ---------
 
+[19 May 2022]: Joined Preformat Monastics and added to site.
 [19 May 2022]: New site is now live.
 
 
