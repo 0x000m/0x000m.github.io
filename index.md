@@ -4,7 +4,7 @@ layout: default
 
 
 <pre class="col">
-Deryk Makgill
+DERYK MAKGILL'S WEBSITE
 -------------
 
 I'm a self-taught software developer and sysadmin from New York exiled to the wilds of central Pennsylvania. I build cathedrals on quicksand from blueprints scribbled on bar napkins, and more often than not the result works.
