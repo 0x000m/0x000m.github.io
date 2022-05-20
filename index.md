@@ -5,7 +5,7 @@ layout: default
 
 <pre class="col">
 0x000m
--------------
+------
 
 Essays. Fiction. Miscellany. 
 
