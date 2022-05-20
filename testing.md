@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<style>h1,h2,h3,h4,h5,h6{margin:0;font-weight:400;font-size:1em;border-bottom:none;}p{margin-left:30px;}
+<style>h1,h2,h3,h4,h5,h6{margin:0;font-weight:400;font-size:1em;border-bottom:none;}p{margin-left:30px;}</style>
 
 # TIMOTHY C. MAY: FROM 'ANARCHY' to 'WELFARISM'
 
