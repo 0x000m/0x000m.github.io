@@ -47,6 +47,8 @@ The site is all plain preformatted text with just a dash of CSS. It's probably t
 "The more outlandish the typeface, the harder it is to read. The drama belongs in what you say, not the typeface"
 > Ogilvy, D (1983), Ogilvy on Advertising pg. 96, London, Prion Books Ltd.
 
+This website is the founding member of Monastic PRE, the internet monestary for preformatted websites.
+
 
 CHANGELOG 
 ---------
