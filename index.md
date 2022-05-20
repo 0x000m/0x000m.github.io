@@ -31,7 +31,6 @@ Sign up to get emails directly from me. I'm also considering a printed newslette
 
 </pre>
 <pre class="col">
-
 ABOUT THIS WEBSITE
 ------------------
 
