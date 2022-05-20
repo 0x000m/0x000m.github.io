@@ -7,12 +7,6 @@ layout: default
 0X000.GITHUB.IO
 ---------------
 
-Essays. Fiction. Interviews. Miscellany. Coming soon (tm).
-
-
-ABOUT ME
---------
-
 I'm working on a book on the writings of Cypherpunk Timothy C. May and writing on this website when I have time.
 
 
