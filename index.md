@@ -7,7 +7,6 @@ DERYK MAKGILL'S WEBSITE
 https://0x000m.github.io
 
 CONTACT INFO
-
 makgill@protonmail.ch
 1930 Air Lane Dr, Nashville TN 37027
 https://twitter.com/wakgill
