@@ -1,7 +1,7 @@
 ---
-permalink: /
+layout: default
 ---
-
+```
 TIMOTHY C. MAY: FROM 'ANARCHY' to 'WELFARISM'
 
 1. Introduction
@@ -139,3 +139,4 @@ my views. If you don't like 'em, ignore them or filter
 them. That's the Cypherpunk way of doing things." <a
 href="https://mailing-list-archive.cryptoanarchy.wiki/archive/1995/08/1c8e7b55334c834d0281033946bb5c28a4566507452010917d6561ab49b432fd/">1995-08-10
 - Conspiracies and “Ciphergroupies”</a>
+```
