@@ -51,18 +51,18 @@ the "'National security' is the root passphrase of the
 Constitution." The idea being that the normal
 Constitutional protections are bypassed by invocation
 of "national security." But it occurs to me that we are
-eeing a new variant of this: "Protect the children."
+seeing a new variant of this: "Protect the children."
 
 Some recent examples:
 
 - Clinton's Executive Order today which limits advertising
-  of cigarettes, limits the display of tobacco-related
-  symbols and words on t-shirts, baseball caps, billboards,
-  and publically visible signs at sports events.(There were
-  all kinds of details, most of them blatantly in violation
-  of the First Amendment. I half-watched the Clinton
-  announcement, but didn't take notes...consult your
-  newspaper or the Web.)
+of cigarettes, limits the display of tobacco-related
+symbols and words on t-shirts, baseball caps, billboards,
+and publically visible signs at sports events.(There were
+all kinds of details, most of them blatantly in violation
+of the First Amendment. I half-watched the Clinton
+announcement, but didn't take notes...consult your
+newspaper or the Web.)
 
 The critical phrase: "We have to protect the children."
 
@@ -75,14 +75,14 @@ have to carry them, then all a child less than 18 has to do
 is to claim not to have to carry one because he's 18!)
 
 - The whole Exon and V-chip debates, now likely to be passed
-  by Congress, are about "protecting children."
+by Congress, are about "protecting children."
 
 - and the Oklahoma City bombing, not that I supported it in
-  any way, was seen as especially horrific because of the
-  children that were killed. This means that restrictive
-  legislation, such as bans on explosives information,
-  guns, etc., can be justified as measures to "protect
-  children." And so on.
+any way, was seen as especially horrific because of the
+children that were killed. This means that restrictive
+legislation, such as bans on explosives information,
+guns, etc., can be justified as measures to "protect
+children." And so on.
 
 Now clearly this strategy will be welcomed by many. It's
 hard to argue against children and against the "protection
