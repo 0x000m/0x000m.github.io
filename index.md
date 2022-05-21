@@ -8,19 +8,19 @@ https://0x000m.github.io
 
 CONTACT INFO
 You can reach me by sending email, but I don't check email often.
-<a href="makgill@protonmail.ch">makgill@protonmail.ch</a>
+makgill@protonmail.ch
 
 You can also reach me by sending a letter or package. I always check for those and reply.
-<a href="makgill@protonmail.ch">1930 Air Lane Dr, Nashville TN 37027</a>
+1930 Air Lane Dr, Nashville TN 37027
 
 I'm also on Twitter.
-<a href="https://twitter.com/wakgill">https://twitter.com/wakgill</a>
-
-
+https://twitter.com/wakgill
 
 NEWSLETTER
 Sign up to get emails directly from me. I'm also considering a printed newsletter—escape the screen!!—so you can provide a mailing address if you want to get that for free when it comes out.
-<a href="https://forms.gle/tz3EEThDNVgdJj5g8">https://forms.gle/tz3EEThDNVgdJj5g8</a>
+https://forms.gle/tz3EEThDNVgdJj5g8
+
+
 
 TIMOTHY C. MAY: FROM 'ANARCHY' to 'WELFARISM'
 https://0x000m.github.io/tmay
