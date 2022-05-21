@@ -41,9 +41,8 @@ by Tom Busby.
 2. Borders
 
 2.1. "National borders are just speed bumps on the
-information superhighway." <a
-href="https://mailing-list-archive.cryptoanarchy.wiki/archive/1995/08/096910121e38037aef2b4b9bb6400ee771c7ce372222b3a596adddd9add4d577/">1995-08-07
-- Quibbling about definitions of “proof"</a>            
+information superhighway."[1] 
+1995-08-07 - Quibbling about definitions of “proof"            
 
 3. Children
 
@@ -103,9 +102,9 @@ focussed on  "pedophiles" and "pornographers." Look for
 calls to have a national I.D. card--which serves many
 State-needed purposes (and I don't mean in terms of
 Revelations). A national I.D. card could then be tied in to
-GAK/escrow systems. "We have to protect the children." <a
-href="https://mailing-listarchive.cryptoanarchy.wiki/archive/1995/08/97fd968e94dd433641337c754a893e695a13d37f8e5364fa7406598b8e01a48e/">1995-08-11
-- “Protect the children” as passphrase to Constitution</a> 
+GAK/escrow systems. "We have to protect the children."[2]
+1995-08-11- “Protect the children” as passphrase to 
+Constitution
 
 4. Cyberspace
 
@@ -114,9 +113,9 @@ these days. I expect Oprah and Sally Jesse to soon be doing
 shows on this. Children whose mothers are Net addicts,
 brothers who kill their sisters for using "vi," and jilted
 cyberlovers who are in relationships with their
-shrinkwraps." <a
-href="https://mailing-list-archive.cryptoanarchy.wiki/archive/1995/08/dde7e50171fd289407933fc8fc8fcb96b2a631b9a9acc6e7b920fff22b288ec8/">1995-08-08
-- Slouka’s “War of the Worlds” (trashing of computers)</a>
+shrinkwraps."[3] 
+1995-08-08 - Slouka’s “War of the Worlds” (trashing of 
+computers)
 
 5. Cypherpunks
 
@@ -136,7 +135,12 @@ filters and kill file ...Insulting people
 as "ciphergroupies" because they are not working on one's
 current interest seems needlessly counterproductive. Just
 my views. If you don't like 'em, ignore them or filter
-them. That's the Cypherpunk way of doing things." <a
-href="https://mailing-list-archive.cryptoanarchy.wiki/archive/1995/08/1c8e7b55334c834d0281033946bb5c28a4566507452010917d6561ab49b432fd/">1995-08-10
-- Conspiracies and “Ciphergroupies”</a>
+them. That's the Cypherpunk way of doing things."[4]
+1995-08-10 - Conspiracies and “Ciphergroupies”
+
+
+[1] https://mailing-list-archive.cryptoanarchy.wiki/archive/1995/08/096910121e38037aef2b4b9bb6400ee771c7ce372222b3a596adddd9add4d577/
+[2] https://mailing-listarchive.cryptoanarchy.wiki/archive/1995/08/97fd968e94dd433641337c754a893e695a13d37f8e5364fa7406598b8e01a48e/
+[3] https://mailing-list-archive.cryptoanarchy.wiki/archive/1995/08/dde7e50171fd289407933fc8fc8fcb96b2a631b9a9acc6e7b920fff22b288ec8/
+[4] https://mailing-list-archive.cryptoanarchy.wiki/archive/1995/08/1c8e7b55334c834d0281033946bb5c28a4566507452010917d6561ab49b432fd/
 ```
