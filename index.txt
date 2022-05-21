@@ -1,5 +1,5 @@
 ---
-permalink: https://0x000m.github.io/
+permalink: /
 ---
 
 TIMOTHY C. MAY: FROM 'ANARCHY' to 'WELFARISM'
