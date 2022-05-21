@@ -1,3 +1,9 @@
+---
+layout: default
+---
+
+
+<pre class="col">
 0X000.GITHUB.IO
 ---------------
 
