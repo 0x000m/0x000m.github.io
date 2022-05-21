@@ -17,7 +17,7 @@ https://forms.gle/tz3EEThDNVgdJj5g8
 
 TIMOTHY C. MAY: FROM 'ANARCHY' to 'WELFARISM'
 https://0x000m.github.io/tmay
-I'm editing a book on the Cypherpunk Mailing List writings of Timothy C. May.
+The Cypherpunk Mailing List writings of Timothy C. May.
 
 BRAINDUMP 2022-05-13
 http://len.falken.directory/misc/brain-dump-2022-05-13T03:03:00-05:00.txt
