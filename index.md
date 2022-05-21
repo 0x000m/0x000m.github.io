@@ -20,8 +20,6 @@ NEWSLETTER
 Sign up to get emails directly from me. I'm also considering a printed newsletter—escape the screen!!—so you can provide a mailing address if you want to get that for free when it comes out.
 https://forms.gle/tz3EEThDNVgdJj5g8
 
-
-
 TIMOTHY C. MAY: FROM 'ANARCHY' to 'WELFARISM'
 https://0x000m.github.io/tmay
 I'm editing a book on the Cypherpunk Mailing List writings of Timothy C. May.
