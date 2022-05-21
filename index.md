@@ -7,13 +7,14 @@ DERYK MAKGILL'S WEBSITE
 https://0x000m.github.io
 
 CONTACT INFO
-You can reach me by sending email, but I don't check email often.
+
+Email
 makgill@protonmail.ch
 
-You can also reach me by sending a letter or package. I always check for those and reply.
+Mailing
 1930 Air Lane Dr, Nashville TN 37027
 
-I'm also on Twitter.
+Twitter
 https://twitter.com/wakgill
 
 NEWSLETTER
