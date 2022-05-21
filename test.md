@@ -27,9 +27,7 @@ All material is written by Tim May, except as noted. Research, compilation, forw
 
 2. Borders
 
-2.1. "National borders are just speed bumps on the information superhighway." <a
-href="https://mailing-list-archive.cryptoanarchy.wiki/archive/1995/08/096910121e38037aef2b4b9bb6400ee771c7ce372222b3a596adddd9add4d577/">1995-08-07
-- Quibbling about definitions of “proof"</a>            
+2.1. "National borders are just speed bumps on the information superhighway."          
 
 3. Children
 
@@ -51,18 +49,13 @@ Now clearly this strategy will be welcomed by many. It's hard to argue against c
 
 More speculatively, I think Clinton has hit on this strategyas a way to line up support from the Republican majority in Congress on many key issues. There may even be repercussions for welfare and health care issues (which Clinton can also cast as "protect the children" issues).
 
-The potential crypto relevance? Look for arguments about limiting access to strong crypto to be more heavily focussed on  "pedophiles" and "pornographers." Look for calls to have a national I.D. card--which serves many State-needed purposes (and I don't mean in terms of Revelations). A national I.D. card could then be tied in to GAK/escrow systems. "We have to protect the children." <a
- href="https://mailing-listarchive.cryptoanarchy.wiki/archive/1995/08/97fd968e94dd433641337c754a893e695a13d37f8e5364fa7406598b8e01a48e/">1995-08-11
-- “Protect the children” as passphrase to Constitution</a> 
+The potential crypto relevance? Look for arguments about limiting access to strong crypto to be more heavily focussed on  "pedophiles" and "pornographers." Look for calls to have a national I.D. card--which serves many State-needed purposes (and I don't mean in terms of Revelations). A national I.D. card could then be tied in to GAK/escrow systems. "We have to protect the children." 
 
 4. Cyberspace
 
-4.1. "Bashing the cybernetic aspects of our culture is hot these days. I expect Oprah and Sally Jesse to soon be doing shows on this. Children whose mothers are Net addicts, brothers who kill their sisters for using "vi," and jilted cyberlovers who are in relationships with their shrinkwraps." <a
-href="https://mailing-list-archive.cryptoanarchy.wiki/archive/1995/08/dde7e50171fd289407933fc8fc8fcb96b2a631b9a9acc6e7b920fff22b288ec8/">1995-08-08
-- Slouka’s “War of the Worlds” (trashing of computers)</a>
+4.1. "Bashing the cybernetic aspects of our culture is hot these days. I expect Oprah and Sally Jesse to soon be doing shows on this. Children whose mothers are Net addicts, brothers who kill their sisters for using "vi," and jilted cyberlovers who are in relationships with their shrinkwraps." 
 
 5. Cypherpunks
 
 5.1. "There's a certain "control freak" attitude that creeps into this list (and other lists, of course) at times, wherein people say that their current interest is vastly more important than anything else and that anyone who does not drop their frivolous other interests and begin work immediately on the One True Project are fools and knaves, and are probably secretly working for the NSA!(:-}). People should write about what interests them. Those who wish to program, should program. Those who wish to explore number theory, should explore number theory. And so on. Attempting to control what gets posted on this list is pointless. If you don't like a particular topic, or an author, use filters and kill file ...Insulting people as "ciphergroupies" because they are not working on one's current interest seems needlessly counterproductive. Just my views. If you don't like 'em, ignore them or filter them. That's the Cypherpunk way of doing things." 
-<a href="https://mailing-list-archive.cryptoanarchy.wiki/archive/1995/08/1c8e7b55334c834d0281033946bb5c28a4566507452010917d6561ab49b432fd/">1995-08-10- Conspiracies and “Ciphergroupies”</a>
 ```
