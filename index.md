@@ -8,13 +8,8 @@ https://0x000m.github.io
 
 CONTACT INFO
 
-Email
 makgill@protonmail.ch
-
-Mailing
 1930 Air Lane Dr, Nashville TN 37027
-
-Twitter
 https://twitter.com/wakgill
 
 NEWSLETTER
