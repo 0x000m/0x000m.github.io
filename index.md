@@ -4,14 +4,13 @@ layout: default
 
 
 <pre class="col">
-0X000.GITHUB.IO
----------------
+1. 0X000.GITHUB.IO
 
 I'm working on a book on the writings of Cypherpunk Timothy C. May and writing on this website when I have time.
 <a href="https://0x000m.github.io/may">https://0x000m.github.io/may</a>
 
-CONTACT INFO
-------------
+
+2. CONTACT INFO
 
 You can reach me by sending email, but I don't check email often.
 <a href="makgill@protonmail.ch">makgill@protonmail.ch</a>
@@ -23,16 +22,13 @@ I'm also on Twitter.
 <a href="https://twitter.com/wakgill">https://twitter.com/wakgill</a>
 
 
-NEWSLETTER
-----------
+3. NEWSLETTER
 
 Sign up to get emails directly from me. I'm also considering a printed newsletter—escape the screen!!—so you can provide a mailing address if you want to get that for free when it comes out.
 <a href="https://forms.gle/tz3EEThDNVgdJj5g8">https://forms.gle/tz3EEThDNVgdJj5g8</a>
 
-</pre>
-<pre class="col">
-ABOUT THIS WEBSITE
-------------------
+
+4. ABOUT THIS WEBSITE
 
 I'm am fascinated by Gwern Branwen's concept of a "long site." Basically, you work on writing projects that are too hard, too long, or too tedious for most people to do. I've had success as a "blogger" before but looking back on a lot of my writing from 2017-2019, I was struck by how little I cared about it. Gwern asks the question: what would you write or research if you knew you were going to be working on the same thing in twenty years? I'm still figuring that out and this site is my attempt to answer it.
 
@@ -45,13 +41,11 @@ This website is the founding member of Preformat Monastics, the internet monesta
 <a href="https://0x000m.github.io/mp/">https://0x000m.github.io/mp/</a>
 
 
-CHANGELOG 
----------
+5. CHANGELOG 
 
 [19 May 2022]: Joined Preformat Monastics and added to site.
 [19 May 2022]: New site is now live.
 
 
-
 ~ End of the page ~
-
+</pre>
