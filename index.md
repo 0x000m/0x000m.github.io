@@ -3,7 +3,7 @@ layout: default
 ---
 
 ```
-DERYK MAKGILL'S WRITING
+DERYK MAKGILL'S WEBSITE
 https://0x000m.github.io
 
 CONTACT INFO
