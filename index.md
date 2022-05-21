@@ -131,11 +131,11 @@ program, should program. Those who wish to explore number
 theory, should explore number theory. And so on. Attempting
 to control what gets posted on this list is pointless. If
 you don't like a particular topic, or an author, use
-filters and kill file ...Insulting people
-as "ciphergroupies" because they are not working on one's
-current interest seems needlessly counterproductive. Just
-my views. If you don't like 'em, ignore them or filter
-them. That's the Cypherpunk way of doing things."[4]
+filters and kill file...Insulting people as "ciphergroupies" 
+because they are not working on one's current interest seems 
+needlessly counterproductive. Just my views. If you don't like 
+'em, ignore them or filterthem. That's the Cypherpunk way of
+doing things."[4]
 1995-08-10 - Conspiracies and “Ciphergroupies”
 
 
