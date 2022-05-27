@@ -1,0 +1,157 @@
+---
+permalink: craig
+---
+
+CRAIG WRIGHT
+
+There are two things about Craig Wright that I can't believe.
+
+a. Craig is the genius behind Bitcoin. b. Craig is totally a fraud and
+scammer.
+
+I don't see how anyone who understands Bitcoin, its history, or Craig
+Wright, could believe either extreme. 
+
+Well, it could be true, but things are too murky right now to take
+either position. At least, in my opinion, you've got to WANT to
+believe a or b is true in order to believe a or b. People who want
+Craig to be Satoshi will see Satoshi. People who don't want him to be
+Satoshi will see a fraud.
+
+I don't really know what I want, which makes me perhaps uniquely
+qualified to write about the way things actually are, or appear to
+be. Sure, I think it would be hilarious for a foul-mouthed,
+bragadocious Australian who is laughed at by the technical and
+academic community to actually be the genius behind Bitcoin. The meme
+is incredible. Sometimes I wish we'd all just pretend we believe he
+is Satoshi for the lulz. But then I think—you know, this guy is
+really kind of an asshole and he says a lot of things that are
+ridulous, and he's suing my friend Roger Ver, and maybe he's trying
+to steal the Satoshi coins, and maybe it would be best if he were not
+Satoshi after all. Then I see something that reminds me that despite
+his behavior, he's actually a human being with feelings and intellect
+and friends and family, and a whole life that he has lived and all
+the scars to prove it, and things aren't as black and white as they
+seem, and maybe, just maybe, he's a more sympathetic character than
+peoole realise. I've certainly had great interactions on Twitter with
+him over the years and really miss what I would consider the 
+'old' Craig. And then he threatens on Slack to sue me for a hate crime
+ because of a funny meme I posted of a fake Tweet from him and.....
+
+I find myself changing my mind about this so often that I've realised
+that all I really want is the truth. Is it messy? Does it shatter the
+myth of Satoshi? Does it reveal Satoshi to be a fraud? Or a braggart?
+Or a weird cross between genius and idiot? Is it a hilarious? Just
+give me the truth!
+
+So I wrote this as some notes on where I think things stand, from the
+perspective of someone who neither hates Craig nor worships him, who
+at the same time dislikes him and likes him, who finds him cringe and
+funny, and incredibly intelligent and laughably stupid all at once.
+
+I know this won't make a lot of people happy because they are
+peronally invested in having a nice, neat answer that fits whatever
+mental bubble they've trapped themselves in, and I could be wrong
+about everything, but I don't think I am.
+
+And while I don't think people will be happy, I think they ought to
+be, because I'm going to try to give a plausible answer that allows
+both groups a and b to save face with eachother and claim some margin
+of victory (obviously, only I am the one who is truly victorious
+here, and of course people I list in my acklowldgement section)
+
+
+So I want to start off with a story that might be true. I don't know
+if it's true but as you'll see later on, it makes a lot of sense when
+you really approach it as someone who has no need for it to be true
+or false. For the purposes of this story, we accept that Craig is
+both instrumental to the creation of Bitcoin AND kind of a fraud
+(please don't sue me Mr. Craig sir). 
+
+Our story can begin much earlier than this, but maybe that's better
+for a prequel and we should start in media res. I don't have a
+precise date but let's guess it's the year 2004.
+
+The spirit of the glorious 90s has not yet died but its on life
+support. Greenday released American Idiot. Ben Stiller was the king
+of comedy with Dodgeball, Along Came Polly, and Meet the Fockers. And
+I was in the 4th grade.
+
+Our hero, or villain, or both, Craig Wright, is working in the online
+gambling industry doing, I don't know, something technical, for a
+company called Lasseters. Lasseters. In 2001, Lasseters had become
+the only online casino able to operate legally in Australia, and it
+was one of, if not the, largest online gambling company in the world
+(if its not, don't @ me, it's not essential).
+
+Since the first online gambling sites had launched way back in the
+90s, the customer base had exploded. Online gambling was HOT. People
+like Calvin Ayre made their fortunes in this early wild west of
+internet gambling. Millions. Then billions. But things were rotten in
+Denmark and these sunshine days were both about to end, and in fact
+not all perfect anyways.
+
+Online gambling had serious problems. Some of these problems were
+technical, economic or social in nature. Credit card fraud was high.
+Users on the sites would fund their accounts with fraudlent cards, or
+simply chargeback their payments after doing their gaming. High fraud
+meant a lot of payment processors or banks didn't want to deal with
+companies like Lasseters.
+
+Worse, the Feds were about to ruin the party like they always do, and
+the signs were surely on the wall in 2004. Let's assume that it was
+around this time that Craig realised that online gambling needed a
+new way to handle payments online if it was going to continue in its
+current form. He'd been on the Cypherpunk Mailing List for years,
+mostly as a fly on the wall, though occasionally getting into spats
+with people like Julian Assange, and he was at least familiar with
+the idea of e-cash that the Cypherpunks had been working on for
+years.
+
+Craig decides that he's going to try to develop an e-cash system that
+he can sell or license to gambling companies. This e-cash might have
+the following characteristics that are absolutely essential to
+success in online gambling.
+
+1. Final settlement - no chargebacks. 2. Micropayments - because
+without micropayments, internet gamlbing is limited tremendously. 3.
+No middlemen - because then the government or banks could stop you
+from making a payment. 4. Private - people don't want to have to
+disclose to a company if they are gambling illegally from their home
+country on a VPN.
+
+For a while, Craig isn't working on this in earnest, but in 2006, the
+Feds pass the Unlawful Internet Gambling Enforcement Act.
+
+From WikiPedia: "The UIGEA prohibits gambling businesses
+from "knowingly accepting payments in connection with the
+participation of another person in a bet or wager that involves the
+use of the Internet and that is unlawful under any federal or state
+law."
+
+There's a lot more to the UIGEA, but all we really need to know is
+that online gambling was fucked bigly. Craig knew this, so around
+2006/2007 he starts working on this full time. Incidentally, Satoshi
+said he started working on Bitcoin around 2007.
+
+So Craig is working on this e-cash to profit off the situation in the
+gambling industry and he gets his friend Dave Kleiman involved a bit.
+I don't think we can ever know how much, but Dave probably at least
+knew about what Craig was working on.
+
+What was this e-cash called? Maybe it was called Bit Coin. We will
+probably never know and its not that important, because whatever
+Craig was working on was NOT what became Bitcoin. In fact, Craig
+quickly realised he was over his head and started looking online for
+people who could help him. But nobody could. See, anyone who was
+anyone in the e-cash world had already decided that true e-cash was
+never going to happen. It was impossibe. One can imagine Craig being
+rejected and laughed at and insulted over and over during this time,
+but he kept up, and miraculously he found someone who could help
+him.
+
+
+
+
+
+
