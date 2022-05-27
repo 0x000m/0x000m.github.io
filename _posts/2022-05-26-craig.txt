@@ -6,8 +6,9 @@ CRAIG WRIGHT
 
 There are two things about Craig Wright that I can't believe.
 
-a. Craig is the genius behind Bitcoin. b. Craig is totally a fraud and
-scammer.
+a. Craig is the genius behind Bitcoin. 
+
+b. Craig is totally a fraud and scammer.
 
 I don't see how anyone who understands Bitcoin, its history, or Craig
 Wright, could believe either extreme. 
@@ -60,6 +61,7 @@ both groups a and b to save face with eachother and claim some margin
 of victory (obviously, only I am the one who is truly victorious
 here, and of course people I list in my acklowldgement section)
 
+*
 
 So I want to start off with a story that might be true. I don't know
 if it's true but as you'll see later on, it makes a lot of sense when
@@ -113,12 +115,13 @@ he can sell or license to gambling companies. This e-cash might have
 the following characteristics that are absolutely essential to
 success in online gambling.
 
-1. Final settlement - no chargebacks. 2. Micropayments - because
-without micropayments, internet gamlbing is limited tremendously. 3.
-No middlemen - because then the government or banks could stop you
-from making a payment. 4. Private - people don't want to have to
-disclose to a company if they are gambling illegally from their home
-country on a VPN.
+1. Final settlement - no chargebacks. 
+2. Micropayments - because without micropayments, internet gamlbing is 
+limited tremendously. 
+3. No middlemen - because then the government or banks could stop you
+from making a payment. 
+4. Private - people don't want to have to disclose to a company if they are 
+gambling illegally from their home country on a VPN.
 
 For a while, Craig isn't working on this in earnest, but in 2006, the
 Feds pass the Unlawful Internet Gambling Enforcement Act.
