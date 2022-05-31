@@ -74,3 +74,5 @@ Welcome to...reality.
  [3] The widspread use of KYC in Bitcoin is a total disaster. Millions
      of real identities have been forever tied to specific UTXOs. So
      much for fungibility.
+ 
+ Last updated---2022/05/31
