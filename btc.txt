@@ -16,8 +16,8 @@ d. Profit. We have an economy.
 
 All of this could have been done totally privately without KYC or 
 regulation because people would just be earning something for a good or
-service they provide and trading it for another one. Because most payments
-are small, they wouldn't even fall under existing KYC legislation requirments.
+service they provide and trading it for another one they want. Because most payments
+are small, they wouldn't even fall under existing AML/KYC legislation requirments.
 
 Here’s how Bitcoin ended up working because short sighted devs and
 exchange operators decided that Bitcoin didn't need to be useful as cash 
