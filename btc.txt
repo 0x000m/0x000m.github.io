@@ -1,44 +1,70 @@
 YOU SCREWED UP BITCOIN AND NOW YOU'RE SCREWED TOO
 
-It’s hard to overstate what an incredible screw up it was for privacy to
-turn Bitcoin into an investment asset and cripple its utility cash for
-small/micropayents. 
+It’s hard to overstate what an incredible screw up it was for privacy
+and freedom to turn Bitcoin against its original purpose as e-cash for 
+micropayments[1] into an investment asset purchased on exchanges and held 
+for gains in fiat.
 
-Here’s how Bitcoin was intended to work. 
+Here’s how Bitcoin was intended to work by Satoshi Nakamoto. 
 
 a. Miners mine Bitcoin. 
 b. Miners use their coins to buy goods and services, especially 
-   things they can't otherwise do without Bitcoin.
-c. Good and service providers trade their coins to other service
-   providers, peer to peer. 
+   things they can't otherwise do without Bitcoin[2] liike tiny payments.
+c. These same people trade their coins to other service providers, 
+   peer to peer, in exchange for whatever they offer. It's cash.
 d. Profit. We have an economy.
 
-All of this is done totally privately without KYC or regulatory
-oversight because people are just earning something for a good or
-service they provide and trading it for another one.
+All of this could have been done totally privately without KYC or 
+regulation because people would just be earning something for a good or
+service they provide and trading it for another one. Because most payments
+are small, they wouldn't even fall under existing KYC legislation requirments.
 
 Here’s how Bitcoin ended up working because short sighted devs and
-exchange operators didn’t know what they were doing and thought that
-Bitcoin wasn’t supposed to be cash.
+exchange operators decided that Bitcoin didn't need to be useful as cash 
+and ought to be treated like an investment instead.
 
 a. Miners mine Bitcoin. 
-b. Miners sell these Bitcoin on regulated KYC exchanges. 
+b. Miners sell these Bitcoin on regulated KYC exchanges.[3] 
 c. People buy these Bitcoin on regulated KYC exchanges. 
-d. People hold these Bitcoin and then sell them back to KYC
-   exchanges.
+d. People hold these Bitcoin. If they do send a payemnt, they are usually
+    substantially larger than was Bitcoin's design intention because the fees
+    are too high to make sending a small payment worth it. This places them
+    under existing financial regulations They then sell them back to KYC 
+    exchanges.
 e. Profit ??????? 
 
-If Bitcoin had been usable as cash, and if people had understand that
-intent and design of Bitcoin necessitated that it be cash, and not
-whatever else they decide it is, we could have avoided, postponed, or
+If Bitcoin had been usable as cash, and if people had understood that
+the intent and design of Bitcoin necessitated that it be cash, and not
+whatever else they decided it was, we could have avoided, postponed, or
 softened a lot of the dark stuff that is yet to come when everyone
-wakes up to the fact that a majority of Bitcoin holders and users are
-KYCd and will easily tracked and traced on-chain, censored, taxed,
-etc.
+wakes up to the fact that a majority of Bitcoin holders and users
+unwittingly KYCd themselves on a public ledeger and will easily 
+tracked and traced on-chain, censored, taxed, etc.
+
+What this looks like, possibly, is near total and complete survelliance
+over the finacial system if Bitcoin ever takes off, coin blacklists, 
+Bitcoin addresses forever tied to your name so that governments and 
+thieves or hackers could harass and control you.
 
 As it is, it’s probably too late to avoid much pain. A lot of people
-incorrectly believe they are safe and private with Bitcoin. They’re
+incorrectly believe they are safe, private and free with Bitcoin, . They’re
 going to learn otherwise the hard way one day soon.
 
 Welcome to...reality.
+ 
+[1] The argument was that limiting the block-size to keep the cost of
+    running a node cheap, Bitcoin would be more resilient to takeover,
+    more private, etc. This came at the expense of limiting Bitcoin's
+    transaction throughput capacity, so the idea became that Bitcoin was 
+    actually never intended to be cash, but digital gold, and investment 
+    tool.
 
+[2] Regular merchant adoption was always a later stage of development,
+    preceeeded by things that *only* Bitcoin could accomplish like
+    micropayments for data, gambling, digital downloads, etc, or
+    grey and black markets that needed a reliable way to take payments
+    that was resistant to shutdown by banks, governments or the issues
+    that typically plague these markets like payment fraud.
+    
+ [3] The widspread use of KYC in Bitcoin is a total disaster. Millions
+     of real identities have been forever tied to specific UTXOs.
