@@ -1,7 +1,7 @@
 YOU SCREWED UP BITCOIN AND NOW YOU'RE SCREWED TOO
 
-It’s hard to overstate what an incredible screw up it was to turn
-Bitcoin into an investment asset and cripple its utility cash for
+It’s hard to overstate what an incredible screw up it was for privacy to
+turn Bitcoin into an investment asset and cripple its utility cash for
 small/micropayents. 
 
 Here’s how Bitcoin was intended to work. 
