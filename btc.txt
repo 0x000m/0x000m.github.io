@@ -32,6 +32,9 @@ d. People hold these Bitcoin. If they do send a payemnt, they are usually
    under existing financial regulations They then sell them back to KYC 
    exchanges.
 e. Profit ??????? 
+f. Wait what??
+
+Do you see what a disaster this is and that it didn't have to be this way?
 
 If Bitcoin had been usable as cash, and if people had understood that
 the intent and design of Bitcoin necessitated that it be cash, and not
@@ -41,10 +44,12 @@ wakes up to the fact that a majority of Bitcoin holders and users
 unwittingly KYCd themselves on a public ledeger and will easily 
 tracked and traced on-chain, censored, taxed, etc.
 
-What this looks like, possibly, is near total and complete survelliance
-over the finacial system if Bitcoin ever takes off, coin blacklists, 
+What this looks like is near total and complete survelliance
+over the financial system if Bitcoin ever takes off, coin blacklists, 
 Bitcoin addresses forever tied to your name so that governments and 
-thieves or hackers could harass and control you.
+thieves or hackers can harass and control you. And know, mixers won't
+save you, and even being un-kyc'd won't save you either, but these are
+topics for another essay.
 
 As it is, it’s probably too late to avoid much pain. A lot of people
 incorrectly believe they are safe, private and free with Bitcoin, . They’re
@@ -67,4 +72,5 @@ Welcome to...reality.
     that typically plague these markets like payment fraud.
     
  [3] The widspread use of KYC in Bitcoin is a total disaster. Millions
-     of real identities have been forever tied to specific UTXOs.
+     of real identities have been forever tied to specific UTXOs. So
+     much for fungibility.
