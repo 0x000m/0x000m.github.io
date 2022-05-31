@@ -1,0 +1,44 @@
+YOU SCREWED UP BITCOIN AND NOW YOU'RE SCREWED TOO
+
+It’s hard to overstate what an incredible screw up it was to turn
+Bitcoin into an investment asset and cripple its utility cash for
+small/micropayents. 
+
+Here’s how Bitcoin was intended to work. 
+
+a. Miners mine Bitcoin. 
+b. Miners use their coins to buy goods and services, especially 
+   things they can't otherwise do without Bitcoin.
+c. Good and service providers trade their coins to other service
+   providers, peer to peer. 
+d. Profit. We have an economy.
+
+All of this is done totally privately without KYC or regulatory
+oversight because people are just earning something for a good or
+service they provide and trading it for another one.
+
+Here’s how Bitcoin ended up working because short sighted devs and
+exchange operators didn’t know what they were doing and thought that
+Bitcoin wasn’t supposed to be cash.
+
+a. Miners mine Bitcoin. 
+b. Miners sell these Bitcoin on regulated KYC exchanges. 
+c. People buy these Bitcoin on regulated KYC exchanges. 
+d. People hold these Bitcoin and then sell them back to KYC
+   exchanges.
+e. Profit ??????? 
+
+If Bitcoin had been usable as cash, and if people had understand that
+intent and design of Bitcoin necessitated that it be cash, and not
+whatever else they decide it is, we could have avoided, postponed, or
+softened a lot of the dark stuff that is yet to come when everyone
+wakes up to the fact that a majority of Bitcoin holders and users are
+KYCd and will easily tracked and traced on-chain, censored, taxed,
+etc.
+
+As it is, it’s probably too late to avoid much pain. A lot of people
+incorrectly believe they are safe and private with Bitcoin. They’re
+going to learn otherwise the hard way one day soon.
+
+Welcome to...reality.
+
