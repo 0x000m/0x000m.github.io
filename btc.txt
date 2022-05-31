@@ -9,9 +9,9 @@ Here’s how Bitcoin was intended to work by Satoshi Nakamoto.
 
 a. Miners mine Bitcoin. 
 b. Miners use their coins to buy goods and services, especially 
-   things they can't otherwise do without Bitcoin[2] liike tiny payments.
+   things they can't otherwise do without Bitcoin[2].
 c. These same people trade their coins to other service providers, 
-   peer to peer, in exchange for whatever they offer. It's cash.
+   peer-to-peer, in exchange for whatever they offer. It's cash.
 d. Profit. We have an economy.
 
 All of this could have been done totally privately without KYC or 
@@ -24,13 +24,13 @@ exchange operators decided that Bitcoin didn't need to be useful as cash
 and ought to be treated like an investment instead.
 
 a. Miners mine Bitcoin. 
-b. Miners sell these Bitcoin on regulated KYC exchanges.[3] 
-c. People buy these Bitcoin on regulated KYC exchanges. 
+b. Miners sell these Bitcoin to investors on regulated KYC exchanges.[3] 
+c. Investors buy these Bitcoin on regulated KYC exchanges. 
 d. People hold these Bitcoin. If they do send a payemnt, they are usually
-    substantially larger than was Bitcoin's design intention because the fees
-    are too high to make sending a small payment worth it. This places them
-    under existing financial regulations They then sell them back to KYC 
-    exchanges.
+   substantially larger than was Bitcoin's design intention because the fees
+   are too high to make sending a small payment worth it. This places them
+   under existing financial regulations They then sell them back to KYC 
+   exchanges.
 e. Profit ??????? 
 
 If Bitcoin had been usable as cash, and if people had understood that
