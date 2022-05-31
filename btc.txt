@@ -34,16 +34,16 @@ Do you see what a disaster this is and that it didn't have to be this way?
 
 If Bitcoin had been usable as cash, and if people had understood that
 the intent and design of Bitcoin necessitated that it be cash, and not
-whatever else they decided it was, we could have avoided, postponed, or
+a token you trade on exchanges, we could have avoided, postponed, or
 softened a lot of the dark stuff that is yet to come when everyone
 wakes up to the fact that a majority of Bitcoin holders and users
-unwittingly KYCd themselves on a public ledeger and will easily 
+unwittingly KYCd themselves on a public ledeger and will be easily 
 tracked and traced on-chain, censored, taxed, etc.
 
 What this looks like is near total and complete survelliance
 over the financial system if Bitcoin ever takes off, coin blacklists, 
 Bitcoin addresses forever tied to your name so that governments and 
-thieves or hackers can harass and control you. And know, mixers won't
+thieves or hackers can harass and control you. And no, mixers won't
 save you, and even being un-kyc'd won't save you either, but these are
 topics for another essay.
 
