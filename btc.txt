@@ -26,11 +26,7 @@ and ought to be treated like an investment instead.
 a. Miners mine Bitcoin. 
 b. Miners sell these Bitcoin to investors on regulated KYC exchanges.[3] 
 c. Investors buy these Bitcoin on regulated KYC exchanges. 
-d. People hold these Bitcoin. If they do send a payemnt, they are usually
-   substantially larger than was Bitcoin's design intention because the fees
-   are too high to make sending a small payment worth it. This places them
-   under existing financial regulations They then sell them back to KYC 
-   exchanges.
+d. People hold these Bitcoin. Eventually, sell them back to KYC exchanges.[4]
 e. Profit ??????? 
 f. Wait what??
 
@@ -74,5 +70,9 @@ Welcome to...reality.
  [3] The widspread use of KYC in Bitcoin is a total disaster. Millions
      of real identities have been forever tied to specific UTXOs. So
      much for fungibility.
+     
+ [4] If they do use it as a payment method, they usually make substantially
+     larger transactions, which makes them more likely to fall under existing
+     regulatory structure.
  
  Last updated---2022/05/31
