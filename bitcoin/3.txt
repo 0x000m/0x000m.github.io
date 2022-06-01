@@ -1,0 +1,59 @@
+[Cryptography] Bitcoin is a disaster.
+Deryk Makgill makgill at makgill.ch 
+Tue Dec 29 11:36:13 EST 2020
+
+On Monday, December 28, 2020 7:07 PM, Ray Dillinger <bear at sonic.net>
+wrote:
+
+>The scarcity of block chain space has led people to re-invent every
+ last feature of the banks they thought they were going to be
+ escaping.
+
+There's a popular quote floating around that in the future, transacting
+on the blockchain will be as rare and specialised as chartering an oil
+tanker. What's annoying is the OP thinks that's a good thing and very
+few people of note seem to disagree.
+
+Many of us have been warning this outcome was inevitable for years. If
+transaction fees become too expensive, funds will consolidate on
+centralised exchanges and only a very small number of "banks" will use
+to blockchain to settle funds for the rest of us peasants.
+
+This makes possible political control through the regulation of payment
+layers, censorship, tracking, loss of privacy, seizure of funds,
+fractional reserve...all the things we want to kill. As Satoshi
+said, "the main benefits are lost if a trusted party is still
+required..."
+
+Lightning Network has largely failed thus far to live up to its early
+promises and timelines, and I can't help but think that in a Bitcoin
+world, most people will just be using things like PayPal, Square,
+Alipay, etc, to move and store funds because they will be priced off
+the blockchain. We already see it happening.
+
+That's just not exciting.
+
+The irony is that in the effort to allow everyone, everywhere, to run a
+full node (as opposed to what Satoshi intended), developers killed the
+reason most people would have to run a full node in the first place—to
+validate their own transactions on-chain.
+
+>Mining is f***ng broken, and ASICs make it actively work against a
+ significant number of its design goals.
+
+Didn't Satoshi predict that Bitcoin mining would consolidate into server
+farms? "It would be left more and more to specialists with server farms
+of specialized hardware."
+
+>The more scalable the network becomes, the more centralized it becomes,
+ until ultimately a "scalable" cryptocurrency would be doing things
+ exactly the same way as a credit card processor.
+
+You said on BitcoinTalk several years ago that the plan was always to
+raise the blocksize. Is it still your opinion that it should have been
+done? Or do you think that even Satoshi's original plans were flawed
+too?
+
+Thanks for your thoughts. I still wouldn't say it has failed completely,
+but I can't disagree that it hasn't lived up to much of the early
+vision.
