@@ -4,14 +4,3 @@ layout: default
 
 - [Bitcoin KYC](/) (Subdirectory]
 
-<!--{% assign documents = site.documents | sort: 'date' | reverse %}
-
-{% for document in documents %}
-<div class="post-stub">
-       <div>
-      <!---<span class="date hidden-xs">{{ document.date | date: "%B %-d %Y" }}    </span>-->
-          <span class="title">   <a href="{{ document.url | relative_url }}">{{ document.title }} </a></div>
-         
-       
- </div> 
-{% endfor %}-->
