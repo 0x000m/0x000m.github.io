@@ -1,0 +1,56 @@
+[Cryptography] Bitcoin is a disaster.
+Deryk Makgill makgill at makgill.ch 
+Tue Dec 29 20:47:30 EST 2020
+
+‐‐‐‐‐‐‐ Original Message ‐‐‐‐‐‐‐
+On Tuesday, December 29, 2020 12:53 PM, John Levine <johnl at iecc.com> wrote:
+
+> but the ten minute rule means it
+> never was useful for day to day transactions even before it ran into
+> scaling problems
+
+Here's another view: it was *because* Bitcoin ran into (unnecessary imo)
+scaling problems that the block time became a problem for day to day
+transactions.
+
+0-conf was reasonably secure for day-to-day until RBF (which has
+its own dubious origins) and more importantly, full-ish blocks. Merchants
+could choose how much risk they were willing to accept, and
+in most cases, the risk of a successful double spend
+on a relatively inexpensive transaction was much lower than the
+risk of a credit card chargeback, and the savings on
+transaction fees more than made up for double spends on the whole.
+
+Bitcoin doesn't need to be perfect, it just needs to be better
+than an existing alternative. It was better despite the insistence
+of certain early devs that Satoshi was wrong. Compare ten minute
+settlement to 60-90 days with credit cards!
+
+>From Satoshi to Mike Hearn: "Currently, businesses accept a certain
+chargeoff rate. I believe the risk with 1 or even 0 confirming blocks
+will be much less than the rate of chargebacks on verified credit card
+transactions."
+
+There are also business models that could exist to offer added double
+spend protection, like insurance to businesses that need it, ie, entrepreneurial
+solutions to supposed technical problems. There were other things
+that could be done if necessary.
+
+But all of that was made less realistic by some people who insisted
+on RBF and a hard cap on the blocksize. Mempool backlogs, high fees, and (to
+a lesser extent due to the opt-in nature) the possibility of an
+RBF transaction, meant the time it could take to confirm a transaction
+with a reasonable fee was hours and "chargeback" risk increased. Obviously this
+could never work for daily spending so in that sense I agree with you,
+but I still remember halcyon days when Bitcoin's adoption in daily commerce was
+growing at exciting rates even with the 10-minute block time.
+
+I think the best criticism of Bitcoin is not a technical one at all—
+it's that it was not socially robust enough to preserve the original scaling
+model planned by Satoshi.
+
+But! Number is going up! That's something at least...And to this day,
+Bitcoin remains remarkably stable and inflation resistant. That counts
+for something too even if it's not quite what we all hoped for...though
+like I said in my last email, custodial payment layers appear to be
+a ticking time bomb for state control.
