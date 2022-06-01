@@ -2,6 +2,8 @@
 layout: default
 ---
 
+- [Bitcoin KYC](/) (Subdirectory]
+
 <!--{% assign documents = site.documents | sort: 'date' | reverse %}
 
 {% for document in documents %}
