@@ -3,12 +3,11 @@ Speculation. KYC "critical mass" is when the economic majority—maybe
 think this is not a problem because the privacy malpractice of others
 is not your concern. That is not true.
 
-What might happen once KYC critical mass is reached is that Bitcoin
-addresses that have not been KYCd will be flagged, tracked, traced, and
-eventually blacklisted entirely. Governments will get away with this
-because the economic majority who are already KYCd will not be
-affected by it and may in fact think its a good thing for people
-to be indentified. 
+What might happen then is that Bitcoin addresses that have not been 
+KYCd will be flagged, tracked, traced, and eventually blacklisted. 
+Governments will get away with this because the economic majority who 
+are already KYCd will not be affected by it and may in fact think its a 
+good thing for people to be indentified. 
 
 What began as something good—the fact that you properly managed your
 on-chain privacy— turns into a kind of Scarlet Letter attatched to
@@ -43,4 +42,3 @@ channels.
 Probably not. The point is that the viability of your privacy strategy 
 on Bitcoin depends at least in part upon forces largely outside of your
 control. KYC affects us all.
-
