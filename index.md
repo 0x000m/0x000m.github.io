@@ -2,5 +2,5 @@
 layout: default
 ---
 
-- [Bitcoin KYC](/bitcoinkyc) (Subdirectory)
+- [Bitcoin](/bitcoin) (Subdirectory)
 
