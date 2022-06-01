@@ -7,7 +7,7 @@ layout: default
 {% for document in documents %}
 <div class="post-stub">
        <div>
-      <span class="date hidden-xs">{{ document.date | date_to_string }}    </span>
+      <span class="date hidden-xs">{{ document.date | date: "%B %-d %Y" }}    </span>
           <span class="title">   <a href="{{ document.url | relative_url }}">{{ document.title }} </a></div>
          
        
