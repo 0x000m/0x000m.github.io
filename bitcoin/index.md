@@ -1,5 +1,5 @@
 ---
-title: Bitcoin KYC
+title: Bitcoin
 layout: default
 ---
 
