@@ -1,0 +1,58 @@
+[Cryptography] Bitcoin is a disaster.
+Deryk Makgill makgill at makgill.ch 
+Thu Dec 31 17:25:02 EST 2020
+
+‐‐‐‐‐‐‐ Original Message ‐‐‐‐‐‐‐
+On Thursday, December 31, 2020 2:17 PM, Ray Dillinger <bear at sonic.net> wrote:
+
+> He did predict centralization into specialized businesses. He did not
+> predict that a "centralization" entailed a race to find the single most
+> corrupt available country in the world, where electricity could be
+> cheap because it was stolen.  
+>
+> Emphasis on "single country." The disaster is not centralization
+> itself; the disaster is that mining is centralized in one country.
+
+Great point. There is a difference between a free market process the
+works out a few regions of the world as being the ideal place to conduct
+a particular kind of business, and centralisation due to subsidies (theft)
+from a totalitarian state (that's putting it lightly). That's an
+opportunity for state capture.
+
+> Yes, the plan was to raise the size of the blocks.  And yes, I think it
+> should have been done. The 1MB limit was considered temporary. We got
+> the current limit just to prevent people from filling space with dumb
+> stuff but thought, of course they'll make it bigger when people
+> actually need the space for legit transactions. But now they can't
+> make it bigger, because that was a classic case of nerds making a
+> design mistake by failing to note that we were leaving a decision in
+> the hands of people with perverse incentives.
+
+Yes! If you try to play central-planner and predict the exact moment you need to
+raise the blocksize, you'll f*ck it up and may lose your opportunity entirely.
+And as you said, the troll army that ran disinformation campaigns and attacked
+node implementations and companies trying to raise the blocksize with letters
+to the SEC, DDoS, delistings and negative review brigades were highly
+effective.
+
+>Miners have a financial stake in the blocks
+> continuing to be small, because bidding goes higher for a smaller
+> amount of block space.
+
+That's an interesting idea. I remember a lot of miners wanting to raise the
+blocksize—ViaBTC, BTC.top, Bitcoin.com, AntPool, BTC.com... though talk is
+cheap and in the end they certainly didn't get it done.
+
+Regarding their financial incentives, is it not true that economies of scale
+in transaction processing might net them more money than tiny blocks?
+I've wondered instead whether it was the block reward that stopped them.
+Hard to care about making money off millions of little transaction fees
+when your primary revenue comes from a block subsidy that doesn't change
+regardless of the block size.
+
+Either way, it's clear there were parties that benefited from small blocks
+in that they could build payment layers on top of Bitcoin that the peasants
+have to use and pay for. They won. Good for governments too who want to regulate,
+good for banks and legacy payment processors...
+
+Thanks the thoughts. Your comments are educational as always.
