@@ -2,6 +2,8 @@
 layout: default
 ---
 
+<h1><a href="/>JOIN THE MAILING LIST</a></h1>
+<hr>
 
 {% assign documents = site.documents | sort: 'date' | reverse %}
 
@@ -9,7 +11,7 @@ layout: default
 <div class="post-stub">
        <div>
       <span class="date hidden-xs">{{ document.date | date: "%Y-%m-%d" }}    </span>
-          <span class="title">   <a href="{{ document.url | relative_url }}">{{ document.title }} </a>→</div>
+          <span class="title">   <a href="{{ document.url | relative_url }}">{{ document.title }} </a></div>
          
        
  </div> 
