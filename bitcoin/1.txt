@@ -1,6 +1,3 @@
----
-permalink: 1.txt
----
 It’s hard to overstate what an incredible screw up it was for privacy and
 freedom to turn Bitcoin against its original purpose as e-cash for
 micropayments[1] into an investment asset purchased on exchanges.
