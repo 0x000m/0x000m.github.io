@@ -1,7 +1,7 @@
 Speculation. KYC "critical mass" is when the economic majority—maybe
 70% or more—of Bitcoin users are KYCd. Many Bitcoiners think this is 
-not a problem because the privacy malpractice of others is not your concern. 
-That is not true.
+not a problem because the privacy malpractice of others is not your 
+concern. That is not true.
 
 What might happen then is that Bitcoin addresses that have not been 
 KYCd will be flagged, tracked, traced, and eventually blacklisted. 
