@@ -1,5 +1,5 @@
 ---
-permalink: craig
+permalink: craig.txt
 ---
 
 CRAIG WRIGHT
