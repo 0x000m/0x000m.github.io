@@ -1,0 +1,43 @@
+
+You aren't ready for this conversation if you're
+holding Bitcoin Cash or Bitcoin SV, but the fees on your
+chain are not actually low, they're subsidised by the block
+reward.
+
+Miners can afford to provide block space nearly for free
+only because they're able to pay for it through the current
+inflation model. The actual cost of a Bitcoin Cash or a 
+Bitcoin SV transaction then is actually much higher, it's
+just that the costs aren't felt by users right now.
+
+You're nodding your head saying you know this, but what you
+have probably overlooked is that this subsidy is stopping
+us from getting accurate information about what the proper
+transaction fee is for the networks. People are building
+businesses today that rely on low fees without knowing if
+those fees will be sustainable for miners in the future!
+
+For my own part, I think economies of scale can be achieved
+and that fees could concievably go even lower than they are
+today while miners become more and more profitable, but
+I don't think we should keep kicking the can down the road
+and hoping we turn out to be correct.
+
+Let's remove the block reward today. There's no reason
+Bitcoin needs to have 21 million coins. The number is 
+arbitirary. Stopping it earlier just makes Bitcoin Cash
+and Bitcoin SV more scarce than BTC, and it will kickstart
+the process of the market figuring out what a sustainable
+transaction fee actually is. It should also incentivize
+miners and businesses to do the hard work that is necessary
+to actually build a business that relies on high volumes
+of low fee-paying transactions, whereas right now, miners
+are fat and happy making money off their subsidy. 
+
+We don't want to wait to figure this out. It will be painful.
+We critize BTC devs a lot for imposing centrally planned,
+short-sighted monetary policies, but the block subsidy has
+become just that and we are hypocrites if we keep it. Enough 
+coins have been distributed. Lets turn Bitcoin Cash or 
+Bitcoin SV into the only chain that has a true free market 
+for fees and see what happens.
