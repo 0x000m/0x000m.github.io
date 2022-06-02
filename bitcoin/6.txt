@@ -1,3 +1,7 @@
+---
+title: Total fees are nearly double the (BSV) block reward (parody)
+---
+
 Total fees are nearly double the (BSV) block reward
 to: bitcoin-dev@lists.linuxfoundation.org
 from: makgill@protonmail.ch
