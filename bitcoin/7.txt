@@ -1,7 +1,5 @@
-You aren't ready for this conversation if you're
-holding Bitcoin Cash or Bitcoin SV, but the fees on your
-chain are not actually low, they're subsidised by the block
-reward.
+The transaction fees on Bitcoin Cash and Bitcoin SV are not 
+actually low, they're just subsidised by the block reward.
 
 Miners can afford to provide block space nearly for free
 only because they're able to pay for it through the current
