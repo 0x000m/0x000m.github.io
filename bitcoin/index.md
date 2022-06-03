@@ -3,7 +3,9 @@ title: Bitcoin
 layout: default
 ---
 
-### Bitcoin Writing...
+### Bitcoin
+
+### Writing...
 
 - [How to lose all your BitcoinSV TLDs in one day...](/bitcoin/8.txt)
 - [Let's get rid of the block reward](/bitcoin/7.txt)
