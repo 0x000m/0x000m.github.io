@@ -9,6 +9,9 @@ layout: default
 - [Let's get rid of the block reward](/bitcoin/7.txt)
 - [How Bitcoin was supposed to have worked](/bitcoin/1.txt)
 - [On KYC](/bitcoin/2.txt)
+
+### Emails 
+
 - [[Cryptography] Re: Bitcoin is a disaster.](/bitcoin/3.txt)
 - [[Cryptography] Re: Bitcoin is a disaster.](/bitcoin/4.txt)
 - [[Cryptography] Re: Bitcoin is a disaster.](/bitcoin/5.txt)
