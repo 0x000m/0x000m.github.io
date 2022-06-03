@@ -1,0 +1,82 @@
+This is the story about how I lost all of my Bitcoin SV
+domains, as well as quite a few other ones, and some
+lessons learned from the experience. 
+
+PSA: Don't use Namecheap if you can avoid it...
+
+I used to own almost every "bitcoinsv" and "bsv" TLD
+available on Namecheap. I bought them because, why not? If
+it caught on, domain name space could have been valuable.
+Imagine owning bitcoin.com or r/bitcoin or bitcoin.org.
+
+So over a period of several months I bought as many of them
+as I could and then I listed them on bsv.domains for sale
+if anyone wanted to buy one. And people did! I sold quite a
+few to different people, though I don't think anyone ever
+did anything useful with a domain they bought...
+
+This went on for some time and then...I lost all the TLDs I
+owned and I was reminded very clearly that any mixing
+between the Bitcoin economy and the dollar economy can
+often give you a false sense of security in the ability of
+Bitcoin to stop some of things we all find annoying about
+traditional payments. 
+
+See what happened is that I purchased all of the domains
+with Bitcoin Cash on Namecheap. I did that because I don't
+like having recurring payments linked to my credit card for
+things like domain names because I always end up forgetting
+to cancel and several years of charges will go by before I
+finally fix it. Bitcoin Cash solved this because payments
+can't be made unless I sign a transaction to authorize
+them. Well, the time to renew came and of course, I forgot,
+but instead of sending my a reminder that my domains would
+be cancelled if I didn't renew, Namecheap billed and old,
+expired credit card they had on file for all the domains
+anyways even though I had specifically paid in Bitcoin to
+avoid that.
+
+I asked Namecheap to reverse the payments once I realised
+what had happened and they refused. So, I did what credit
+cards are good for and I issued a chargeback.
+
+That's when Namecheap got nasty. They sent me a bunch of
+aggressive emails from their fraud department telling me in
+no uncertain terms that if I didn't cancel the chargeback
+and pay the domain fees, they would hold all my domains
+hostage, even ones that had already been paid for. On top
+of that, they were assessing a $200 fine per chargebacked
+domain.
+
+Ouch. Despite the fact that I owned over 100 domains with
+them and was a long-time customer, they refused to budge on
+this. I could have paid the ransom, but I really felt like
+this time I was in the right. I never authorised my credit
+card for those domains. I paid in Bitcoin. They ought to
+have understood that the reasons someone pays in Bitcoin is
+precisely so they can control when and how their funds are
+spent.
+
+So I lost ALL my domains, and its been a hassle trying to
+get the important ones back after they expired, which often
+took up to a year. And many of the BitcoinSV/BSV domains I
+owned were acquired right away or relisted at much higher
+prices by Namehcheap themselves, so in the end, I decided
+not to be in the domain squatting business again,
+especially because I'm not sure BSV/BitcoinSV domains are
+going to be valuable, and if BSV ever catches on in a big
+global way, it almost certainly won't be called Bitcoin SV.
+What a stupid name for a Bitcoin fork.
+
+Lessons learned? Don't use Namecheap if I can avoid it. More
+importantly, don't link a credit card to any recurring
+service for which you're paying with Bitcoin, even if that
+credit card isn't attached to that specific product or
+service. They'll run your card anyway.
+
+¯\_(ツ)_/¯
+
+The other day I saw somebody post that they owned bsv.lol.
+That made me lol, because I used to own it. I hope they
+use it for something other than another stupid 21e8
+landing page.
