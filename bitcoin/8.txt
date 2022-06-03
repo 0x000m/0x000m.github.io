@@ -76,7 +76,8 @@ service. They'll run your card anyway.
 
 ¯\_(ツ)_/¯
 
-Postscript
+Postscript...
+
 The other day I saw somebody post that they owned bsv.lol.
 That made me lol, because I used to own it. I hope they
 use it for something other than another stupid 21e8
