@@ -1,25 +1,23 @@
----
-title: Total fees are nearly double the (BSV) block reward (parody)
----
-
-Total fees are nearly double the (BSV) block reward
-to: bitcoin-dev@lists.linuxfoundation.org
+Total fees are nearly double the (BSV) block reward 
+to: bitcoin-dev@lists.linuxfoundation.org 
 from: makgill@protonmail.ch
 
-Personally, I'm pulling out the champaign that market behaviour
-is indeed producing activity levels that can pay for security 
-without limiting the block size, and also producing no fee paying
-backlogs that kill the usability of the chain.
+Personally, I'm pulling out the champaign that market
+behaviour is indeed producing activity levels that can pay
+for security without limiting the block size, and also
+producing no fee paying backlogs that kill the usability of
+the chain.
 
 https://blockchair.com/bitcoin-sv/block/700606
 
-I'd personally prefer that tis were done on BTC years ago because
-I have to admit, the network effect is all there, but this new 2
-gigameg block on BSV gives us a strong indicator that high volumes
-of low fee transactions can more than make up for the block reward
-as it moves closer to zero.
+I'd personally prefer that tis were done on BTC years ago
+because I have to admit, the network effect is all there,
+but this new 2 gigameg block on BSV gives us a strong
+indicator that high volumes of low fee transactions can
+more than make up for the block reward as it moves closer
+to zero.
 
-As Satoshi Nakamoto said, "I'm sure that in 20 years there will
-either be very large transaction volume or no volume." More can be
-done for education though——perhaps this market signal isn't efficient
-yet. But we should get it there.
+As Satoshi Nakamoto said, "I'm sure that in 20 years there
+will either be very large transaction volume or no volume."
+More can be done for education though——perhaps this market
+signal isn't efficient yet. But we should get it there.
