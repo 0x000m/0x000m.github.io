@@ -9,4 +9,4 @@ layout: default
 - [[Cryptography] Re: Bitcoin is a disaster.](/bitcoin/3.txt)
 - [[Cryptography] Re: Bitcoin is a disaster.](/bitcoin/4.txt)
 - [[Cryptography] Re: Bitcoin is a disaster.](/bitcoin/5.txt)
-- [Total fees are nearly double the (BSV) block reward](/bitcoin/6.txt) (Parody)
+- [[bitcoin-dev] Total fees are nearly double the (BSV) block reward](/bitcoin/6.txt) (Parody)
