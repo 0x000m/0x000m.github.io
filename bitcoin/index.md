@@ -5,6 +5,7 @@ layout: default
 
 ### Bitcoin Writing...
 
+- [How to lose all your BitcoinSV TLDs in one day...](/bitcoin/8.txt)
 - [Let's get rid of the block reward](/bitcoin/7.txt)
 - [How Bitcoin was supposed to have worked](/bitcoin/1.txt)
 - [On KYC](/bitcoin/2.txt)
