@@ -3,6 +3,8 @@ title: Bitcoin
 layout: default
 ---
 
+# Bitcoin Writing
+
 - [Let's get rid of the block reward](/bitcoin/7.txt)
 - [How Bitcoin was supposed to have worked](/bitcoin/1.txt)
 - [On KYC](/bitcoin/2.txt)
