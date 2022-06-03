@@ -2,7 +2,7 @@
 layout: default
 ---
 
-### Latest updates...
+### Latest Updates...
 
 - [Bitcoin](/bitcoin) (Subdirectory)
 
